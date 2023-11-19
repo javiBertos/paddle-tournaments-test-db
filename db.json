@@ -17,5 +17,35 @@
     { "name": "Pedro", "gender": "male", "game_position": "both", "avatar": "https://robohash.org/Pedro", "matches": { "played": 4, "won":	1, "tied":	0, "lost":	3 }, "score":	3, "games": { "won":	20, "lost":	13} },
     { "name": "Gloria", "gender": "female", "game_position": "both", "avatar": "https://robohash.org/Gloria", "matches": { "played": 12, "won":	1, "tied":	0, "lost":	11 }, "score":	3, "games": { "won":	19, "lost":	69} },
     { "name": "Mara", "gender": "female", "game_position": "both", "avatar": "https://robohash.org/Mara", "matches": { "played": 4, "won":	1, "tied":	0, "lost":	3 }, "score":	3, "games": { "won":	7, "lost":	18} }
+  ],
+  "genders": ["male", "female"],
+  "game_positions": ["left", "right", "both"],
+  "events": [
+    {
+      "date": "2023-11-14",
+      "place": "Nudos",
+      "participants": [],
+      "courts": [10, 11, 12],
+      "matches": [
+        {
+          "court": 10,
+          "team_a": [],
+          "team_b": [],
+          "result": []
+        },
+        {
+          "court": 11,
+          "team_a": [],
+          "team_b": [],
+          "result": []
+        },
+        {
+          "court": 12,
+          "team_a": [],
+          "team_b": [],
+          "result": []
+        }
+      ]
+    }
   ]
 }
